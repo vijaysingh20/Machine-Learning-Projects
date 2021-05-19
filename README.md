@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijay
+- 👋 Hi, I’m Vijay
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Data Science and Analytic Tools
 - 📫 How to reach me www.linkedin.com/in/vijay-singh-2b5416175
